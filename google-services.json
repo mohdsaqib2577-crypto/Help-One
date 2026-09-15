@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662309542763",
+    "project_id": "help-one-fbd39",
+    "storage_bucket": "help-one-fbd39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662309542763:android:75b1c7c0a442f0228d8a2e",
+        "android_client_info": {
+          "package_name": "com.helpone.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFayXmMs5Yv6-iflAv8ePyt5omej5UmMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
