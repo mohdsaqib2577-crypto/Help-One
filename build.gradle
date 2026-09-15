@@ -1,0 +1,4 @@
+plugins { id 'com.android.application'; id 'com.google.gms.google-services' }
+android { namespace 'com.helpone.app'; compileSdk 36
+ defaultConfig { applicationId 'com.helpone.app'; minSdk 23; targetSdk 36; versionCode 1; versionName '1.0' } }
+dependencies { implementation platform('com.google.firebase:firebase-bom:34.19.0'); implementation 'com.google.firebase:firebase-auth'; implementation 'androidx.appcompat:appcompat:1.7.1'; implementation 'androidx.webkit:webkit:1.14.0' }
